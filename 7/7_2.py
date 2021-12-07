@@ -1,6 +1,3 @@
-from math import floor, ceil
-
-
 with open('7_i.txt') as f:
     crabs = list(map(int, f.read().split(',')))
 
